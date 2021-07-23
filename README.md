@@ -3,6 +3,10 @@
 
 ![build](https://github.com/ckotzbauer/k8spolicy/workflows/build/badge.svg)
 
+## DEPRECATED - This project is no longer maintained
+
+> If you used k8spolicy to find deprecated Kubernetes objects, try [chekr](https://github.com/ckotzbauer/chekr).
+
 This cli-tool helps you to run rego-policies against your kubernetes yaml-files. Helm-Charts are supported as well. [Conftest](https://github.com/instrumenta/conftest) is used under the hood.
 
 ## Installation
